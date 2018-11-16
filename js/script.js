@@ -26,7 +26,7 @@ let cubeMaterial = [
     side: THREE.DoubleSide
   }),
   new THREE.MeshBasicMaterial({
-    map: new THREE.TextureLoader().load('asset/logo.png'),
+    map: new THREE.TextureLoader().load('asset/foo-driver.png'),
     side: THREE.DoubleSide
   }),
   new THREE.MeshBasicMaterial({
